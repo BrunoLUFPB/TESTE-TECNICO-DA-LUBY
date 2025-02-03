@@ -147,7 +147,7 @@ Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 **Nome**: Bruno Luís Silva Guedes   
 **Email**: blsg@academico.ufpb.br  
-**LinkedIn**: [Meu LinkedIn](www.linkedin.com/in/bruno-luis-8a730b220)
+**LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/bruno-luis-8a730b220/)
 
 Agradeço pela oportunidade de participar deste processo seletivo e espero que minha solução atenda às expectativas! 🚀
 
