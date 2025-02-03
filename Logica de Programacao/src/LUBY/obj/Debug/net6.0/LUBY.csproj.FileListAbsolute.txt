@@ -1,0 +1,30 @@
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\bin\Debug\net6.0\LUBY.exe
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\bin\Debug\net6.0\LUBY.deps.json
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\bin\Debug\net6.0\LUBY.runtimeconfig.json
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\bin\Debug\net6.0\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\bin\Debug\net6.0\LUBY.pdb
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.csproj.AssemblyReference.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.AssemblyInfoInputs.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.AssemblyInfo.cs
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\refint\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.pdb
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\LUBY.genruntimeconfig.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica_de_programacao\src\LUBY\obj\Debug\net6.0\ref\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.csproj.AssemblyReference.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.AssemblyInfoInputs.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.AssemblyInfo.cs
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\refint\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.pdb
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\bin\Debug\net6.0\LUBY.exe
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\bin\Debug\net6.0\LUBY.deps.json
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\bin\Debug\net6.0\LUBY.runtimeconfig.json
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\bin\Debug\net6.0\LUBY.dll
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\bin\Debug\net6.0\LUBY.pdb
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\LUBY.genruntimeconfig.cache
+C:\Users\Bruno Luis\Desktop\TESTE-TECH LUBY\Logica de Programacao\src\LUBY\obj\Debug\net6.0\ref\LUBY.dll
