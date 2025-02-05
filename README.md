@@ -39,7 +39,7 @@ Este repositório contém as soluções para o desafio técnico proposto pela Lu
 │   ├── CreateUniqueIndexTelefone.sql
 │   └── DropTableTelefone.sql
 │
-└── VendingMachineApp
+└── VendingMachine
     ├── Program.cs
     ├── VendingMachine.cs
     ├── Produto.cs
