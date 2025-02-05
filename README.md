@@ -40,10 +40,23 @@ Este repositório contém as soluções para o desafio técnico proposto pela Lu
 │   └── DropTableTelefone.sql
 │
 └── VendingMachine
+    ├── .vscode
+    ├── VendingMachine.csproj
     ├── Program.cs
-    ├── VendingMachine.cs
-    ├── Produto.cs
-    └── README.md (Instruções de Execução)
+    ├── settings.json
+    ├── README.md (Instruções de Execução)
+    └── src
+        ├── Armazenamento
+        │   ├── gestorDeEstoqueRepo.cs
+        │   ├── historicoDeVendas.cs
+        │   └── produtoAutomatizado.cs
+        │
+        ├── Funcionalidades
+        │   ├── processadorDeVendas.cs
+        │   └── servicosDeEstoques.cs
+        │
+        └── Gerenciador
+            └── controleMaquinaVenda.cs
 ```
 
 ## 🚀 Como Rodar Localmente
